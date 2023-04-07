@@ -6,3 +6,8 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+.header {
+  background-color: #fff;
+  background-image: url(/images/background_header.svg);
+}

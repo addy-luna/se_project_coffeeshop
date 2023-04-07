@@ -13,4 +13,7 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Project Name: Practicums Coffee Shop
+- Project Description: The idea for this project is to create a full website for
+Practicums coffee shop. Some of the technologies used are Advanced HTML and CSS. 
+- Project plans for improvements: 
