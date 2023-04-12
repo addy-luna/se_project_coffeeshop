@@ -9,7 +9,7 @@
 
 .header {
   background-color: #fff;
-  background-image: url("../images/background_header.svg") no-repeat cover 0 0;
+  background-image: url("./images/background_header.svg") no-repeat cover 0 0;
 }
 
 .header-logo {
